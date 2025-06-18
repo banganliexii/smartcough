@@ -1,0 +1,21 @@
+{
+    "datetime": "2020-05-05T17:57:01.830977+00:00",
+    "cough_detected": "0.9578",
+    "age": "19",
+    "gender": "female",
+    "respiratory_condition": "False",
+    "fever_muscle_pain": "False",
+    "status": "COVID-19",
+    "expert_labels_1": {
+        "quality": "poor",
+        "cough_type": "unknown",
+        "dyspnea": "False",
+        "wheezing": "False",
+        "stridor": "False",
+        "choking": "False",
+        "congestion": "False",
+        "nothing": "True",
+        "diagnosis": "lower_infection",
+        "severity": "mild"
+    }
+}

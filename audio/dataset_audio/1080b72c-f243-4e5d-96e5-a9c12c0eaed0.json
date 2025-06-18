@@ -1,0 +1,21 @@
+{
+    "datetime": "2020-04-13T11:17:42.470615+00:00",
+    "cough_detected": "0.7777",
+    "age": "32",
+    "gender": "male",
+    "respiratory_condition": "False",
+    "fever_muscle_pain": "False",
+    "status": "healthy",
+    "expert_labels_2": {
+        "quality": "poor",
+        "cough_type": "dry",
+        "dyspnea": "False",
+        "wheezing": "False",
+        "stridor": "False",
+        "choking": "False",
+        "congestion": "False",
+        "nothing": "True",
+        "diagnosis": "healthy_cough",
+        "severity": "unknown"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "datetime": "2020-04-17T02:13:35.203364+00:00",
+    "cough_detected": "0.8476",
+    "latitude": "31.0",
+    "longitude": "-94.7",
+    "age": "65",
+    "gender": "male",
+    "respiratory_condition": "False",
+    "fever_muscle_pain": "False",
+    "status": "symptomatic",
+    "expert_labels_2": {
+        "quality": "good",
+        "cough_type": "dry",
+        "dyspnea": "False",
+        "wheezing": "False",
+        "stridor": "False",
+        "choking": "False",
+        "congestion": "False",
+        "nothing": "True",
+        "diagnosis": "COVID-19",
+        "severity": "mild"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "datetime": "2020-04-21T01:11:23.845978+00:00",
+    "cough_detected": "0.1577",
+    "latitude": "44.3",
+    "longitude": "-88.3",
+    "age": "38",
+    "gender": "male",
+    "respiratory_condition": "False",
+    "fever_muscle_pain": "False",
+    "status": "healthy"
+}

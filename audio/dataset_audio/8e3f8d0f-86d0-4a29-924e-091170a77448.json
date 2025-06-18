@@ -1,0 +1,18 @@
+{
+    "datetime": "2020-04-30T17:49:50.702324+00:00",
+    "cough_detected": "0.9009",
+    "age": "46",
+    "gender": "female",
+    "respiratory_condition": "False",
+    "fever_muscle_pain": "False",
+    "status": "symptomatic",
+    "expert_labels_3": {
+        "quality": "no_cough",
+        "dyspnea": "False",
+        "wheezing": "False",
+        "stridor": "False",
+        "choking": "False",
+        "congestion": "False",
+        "nothing": "False"
+    }
+}

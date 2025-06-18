@@ -1,0 +1,21 @@
+{
+    "datetime": "2020-04-13T18:04:59.048967+00:00",
+    "cough_detected": "0.9915",
+    "age": "16",
+    "gender": "male",
+    "respiratory_condition": "False",
+    "fever_muscle_pain": "False",
+    "status": "healthy",
+    "expert_labels_1": {
+        "quality": "poor",
+        "cough_type": "wet",
+        "dyspnea": "False",
+        "wheezing": "False",
+        "stridor": "False",
+        "choking": "False",
+        "congestion": "False",
+        "nothing": "True",
+        "diagnosis": "lower_infection",
+        "severity": "mild"
+    }
+}

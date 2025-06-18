@@ -1,0 +1,16 @@
+{
+    "datetime": "2020-05-15T21:33:39.490519+00:00",
+    "cough_detected": "0.6697",
+    "expert_labels_2": {
+        "quality": "poor",
+        "cough_type": "wet",
+        "dyspnea": "True",
+        "wheezing": "True",
+        "stridor": "False",
+        "choking": "False",
+        "congestion": "False",
+        "nothing": "False",
+        "diagnosis": "obstructive_disease",
+        "severity": "mild"
+    }
+}

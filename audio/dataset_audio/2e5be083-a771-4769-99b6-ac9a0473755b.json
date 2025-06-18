@@ -1,0 +1,16 @@
+{
+    "datetime": "2020-04-28T11:18:46.946238+00:00",
+    "cough_detected": "0.6167",
+    "expert_labels_2": {
+        "quality": "poor",
+        "cough_type": "dry",
+        "dyspnea": "False",
+        "wheezing": "False",
+        "stridor": "True",
+        "choking": "False",
+        "congestion": "False",
+        "nothing": "False",
+        "diagnosis": "COVID-19",
+        "severity": "mild"
+    }
+}

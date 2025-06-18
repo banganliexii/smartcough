@@ -1,0 +1,18 @@
+{
+    "datetime": "2020-04-11T23:20:11.834293+00:00",
+    "cough_detected": "0.9854",
+    "latitude": "40.2",
+    "longitude": "-3.8",
+    "expert_labels_2": {
+        "quality": "good",
+        "cough_type": "wet",
+        "dyspnea": "False",
+        "wheezing": "False",
+        "stridor": "False",
+        "choking": "False",
+        "congestion": "False",
+        "nothing": "True",
+        "diagnosis": "lower_infection",
+        "severity": "mild"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "datetime": "2020-05-16T13:47:13.944476+00:00",
+    "cough_detected": "0.8600",
+    "latitude": "37.3",
+    "longitude": "-6.0",
+    "age": "65",
+    "gender": "female",
+    "respiratory_condition": "False",
+    "fever_muscle_pain": "False",
+    "status": "healthy",
+    "expert_labels_3": {
+        "quality": "ok",
+        "cough_type": "unknown",
+        "dyspnea": "False",
+        "wheezing": "False",
+        "stridor": "False",
+        "choking": "False",
+        "congestion": "False",
+        "nothing": "True",
+        "diagnosis": "upper_infection",
+        "severity": "unknown"
+    }
+}

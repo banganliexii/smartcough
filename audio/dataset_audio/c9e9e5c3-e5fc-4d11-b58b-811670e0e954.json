@@ -1,0 +1,21 @@
+{
+    "datetime": "2020-05-19T17:59:37.343879+00:00",
+    "cough_detected": "0.9935",
+    "age": "15",
+    "gender": "male",
+    "respiratory_condition": "False",
+    "fever_muscle_pain": "False",
+    "status": "symptomatic",
+    "expert_labels_4": {
+        "quality": "good",
+        "cough_type": "dry",
+        "dyspnea": "False",
+        "wheezing": "False",
+        "stridor": "False",
+        "choking": "False",
+        "congestion": "True",
+        "nothing": "False",
+        "diagnosis": "upper_infection",
+        "severity": "mild"
+    }
+}

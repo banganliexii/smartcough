@@ -1,0 +1,23 @@
+{
+    "datetime": "2020-04-20T20:53:19.472135+00:00",
+    "cough_detected": "0.8099",
+    "latitude": "37.4",
+    "longitude": "-6.1",
+    "age": "26",
+    "gender": "female",
+    "respiratory_condition": "True",
+    "fever_muscle_pain": "False",
+    "status": "COVID-19",
+    "expert_labels_2": {
+        "quality": "good",
+        "cough_type": "dry",
+        "dyspnea": "False",
+        "wheezing": "False",
+        "stridor": "False",
+        "choking": "False",
+        "congestion": "False",
+        "nothing": "True",
+        "diagnosis": "upper_infection",
+        "severity": "mild"
+    }
+}

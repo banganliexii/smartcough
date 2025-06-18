@@ -1,0 +1,23 @@
+{
+    "datetime": "2020-04-13T15:58:59.874889+00:00",
+    "cough_detected": "0.5983",
+    "latitude": "42.2",
+    "longitude": "63.6",
+    "age": "24",
+    "gender": "female",
+    "respiratory_condition": "False",
+    "fever_muscle_pain": "False",
+    "status": "healthy",
+    "expert_labels_2": {
+        "quality": "ok",
+        "cough_type": "unknown",
+        "dyspnea": "False",
+        "wheezing": "True",
+        "stridor": "False",
+        "choking": "False",
+        "congestion": "False",
+        "nothing": "False",
+        "diagnosis": "obstructive_disease",
+        "severity": "mild"
+    }
+}

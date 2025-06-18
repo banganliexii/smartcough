@@ -1,0 +1,15 @@
+{
+    "datetime": "2020-04-11T06:30:42.873221+00:00",
+    "cough_detected": "0.7215",
+    "latitude": "32.5",
+    "longitude": "-117.1",
+    "expert_labels_2": {
+        "quality": "no_cough",
+        "dyspnea": "False",
+        "wheezing": "False",
+        "stridor": "False",
+        "choking": "False",
+        "congestion": "False",
+        "nothing": "False"
+    }
+}

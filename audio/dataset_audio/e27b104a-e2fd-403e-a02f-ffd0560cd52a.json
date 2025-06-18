@@ -1,0 +1,23 @@
+{
+    "datetime": "2020-04-13T23:58:28.816111+00:00",
+    "cough_detected": "0.9929",
+    "latitude": "42.4",
+    "longitude": "-71.2",
+    "age": "19",
+    "gender": "male",
+    "respiratory_condition": "False",
+    "fever_muscle_pain": "False",
+    "status": "healthy",
+    "expert_labels_4": {
+        "quality": "good",
+        "cough_type": "dry",
+        "dyspnea": "False",
+        "wheezing": "False",
+        "stridor": "False",
+        "choking": "False",
+        "congestion": "False",
+        "nothing": "True",
+        "diagnosis": "healthy_cough",
+        "severity": "pseudocough"
+    }
+}

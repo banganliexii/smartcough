@@ -1,0 +1,23 @@
+{
+    "datetime": "2020-06-04T14:17:10.631283+00:00",
+    "cough_detected": "0.9780",
+    "latitude": "-34.7",
+    "longitude": "-58.5",
+    "age": "48",
+    "gender": "male",
+    "respiratory_condition": "False",
+    "fever_muscle_pain": "False",
+    "status": "healthy",
+    "expert_labels_4": {
+        "quality": "ok",
+        "cough_type": "dry",
+        "dyspnea": "False",
+        "wheezing": "False",
+        "stridor": "False",
+        "choking": "False",
+        "congestion": "False",
+        "nothing": "True",
+        "diagnosis": "upper_infection",
+        "severity": "mild"
+    }
+}

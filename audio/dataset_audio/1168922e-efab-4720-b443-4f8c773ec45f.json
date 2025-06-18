@@ -1,0 +1,9 @@
+{
+    "datetime": "2020-04-13T18:19:11.179104+00:00",
+    "cough_detected": "0.9797",
+    "age": "20",
+    "gender": "male",
+    "respiratory_condition": "True",
+    "fever_muscle_pain": "True",
+    "status": "healthy"
+}

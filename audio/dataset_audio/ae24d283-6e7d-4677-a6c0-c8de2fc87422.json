@@ -1,0 +1,18 @@
+{
+    "datetime": "2020-04-26T12:38:25.077664+00:00",
+    "cough_detected": "0.1589",
+    "latitude": "43.4",
+    "longitude": "-4.0",
+    "expert_labels_2": {
+        "quality": "poor",
+        "cough_type": "dry",
+        "dyspnea": "False",
+        "wheezing": "False",
+        "stridor": "False",
+        "choking": "False",
+        "congestion": "False",
+        "nothing": "True",
+        "diagnosis": "upper_infection",
+        "severity": "unknown"
+    }
+}

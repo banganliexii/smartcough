@@ -1,0 +1,23 @@
+{
+    "datetime": "2020-05-04T15:16:50.829953+00:00",
+    "cough_detected": "0.9826",
+    "latitude": "41.4",
+    "longitude": "2.0",
+    "age": "40",
+    "gender": "female",
+    "respiratory_condition": "True",
+    "fever_muscle_pain": "False",
+    "status": "symptomatic",
+    "expert_labels_2": {
+        "quality": "ok",
+        "cough_type": "wet",
+        "dyspnea": "False",
+        "wheezing": "False",
+        "stridor": "False",
+        "choking": "False",
+        "congestion": "False",
+        "nothing": "False",
+        "diagnosis": "lower_infection",
+        "severity": "severe"
+    }
+}

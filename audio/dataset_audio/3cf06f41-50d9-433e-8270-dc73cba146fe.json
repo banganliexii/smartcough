@@ -1,0 +1,9 @@
+{
+    "datetime": "2020-04-22T09:14:41.531320+00:00",
+    "cough_detected": "0.2078",
+    "age": "22",
+    "gender": "male",
+    "respiratory_condition": "False",
+    "fever_muscle_pain": "False",
+    "status": "healthy"
+}

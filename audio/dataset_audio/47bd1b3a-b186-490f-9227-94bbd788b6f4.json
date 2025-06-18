@@ -1,0 +1,13 @@
+{
+    "datetime": "2020-04-21T01:46:18.647563+00:00",
+    "cough_detected": "0.6462",
+    "expert_labels_2": {
+        "quality": "no_cough",
+        "dyspnea": "False",
+        "wheezing": "False",
+        "stridor": "False",
+        "choking": "False",
+        "congestion": "False",
+        "nothing": "False"
+    }
+}

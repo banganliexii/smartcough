@@ -1,0 +1,16 @@
+{
+    "datetime": "2020-04-17T09:24:56.808342+00:00",
+    "cough_detected": "0.7167",
+    "expert_labels_2": {
+        "quality": "ok",
+        "cough_type": "unknown",
+        "dyspnea": "False",
+        "wheezing": "False",
+        "stridor": "False",
+        "choking": "False",
+        "congestion": "False",
+        "nothing": "True",
+        "diagnosis": "healthy_cough",
+        "severity": "pseudocough"
+    }
+}
